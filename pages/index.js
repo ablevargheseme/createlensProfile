@@ -67,7 +67,7 @@ export default function Home() {
             </button>
           </div>
           <h1 className="text-lg my-8">
-            <span className="text-2xl">2.</span>Enter you handle Name
+            <span className="text-2xl">2.</span>Add a handle name
           </h1>
           <div className="my-16 space-y-12">
             <form
